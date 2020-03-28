@@ -1,0 +1,5 @@
+<ul>
+    <li *ngFor="let obra of pruebas">{{obra.Obra_nombre}}</li>
+</ul>
+<input #correo type="text"/>
+<button (click)="llamarEndpoint(correo.value)">Generar</button>
