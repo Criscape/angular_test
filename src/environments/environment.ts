@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  endpoint: 'http://127.0.0.1:35000/listas/obra/'
+  endpoint: 'http://127.0.0.1:35000/obra/'
 };
 
 /*

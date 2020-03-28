@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  endpoint: ''
+  endpoint: 'https://cfc-app.herokuapp.com/obra/'
 };
