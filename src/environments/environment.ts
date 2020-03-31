@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  endpoint: 'https://52.14.119.91:35000/obra/'
+  endpoint: 'https://www.datadev2020.tk/obra/'
 };
 
 /*
